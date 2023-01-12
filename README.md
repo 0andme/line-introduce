@@ -5,7 +5,7 @@
 - fork contributor: rest
 
 ## self-introduce
-- 최지희 :
+- 최지희 : 고기를 좋아합니다!
 - 한재희:
 - 양서정 : 초밥을  좋아합니다.
 - 방세희 :
